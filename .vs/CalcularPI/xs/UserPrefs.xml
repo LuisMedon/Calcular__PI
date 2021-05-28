@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BA877499-7C57-4ED3-8EA5-2E800BF0E1AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalcularPI/Program.cs">
+    <Files>
+      <File FileName="CalcularPI/Program.cs" Line="19" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalcularPI" expanded="True">
+            <Node name="CalcularPI" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalcularPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

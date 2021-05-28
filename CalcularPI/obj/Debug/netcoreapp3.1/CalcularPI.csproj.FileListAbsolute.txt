@@ -1,0 +1,12 @@
+/Users/luismedon/Projects/CalcularPI/CalcularPI/bin/Debug/netcoreapp3.1/CalcularPI.deps.json
+/Users/luismedon/Projects/CalcularPI/CalcularPI/bin/Debug/netcoreapp3.1/CalcularPI.runtimeconfig.json
+/Users/luismedon/Projects/CalcularPI/CalcularPI/bin/Debug/netcoreapp3.1/CalcularPI.runtimeconfig.dev.json
+/Users/luismedon/Projects/CalcularPI/CalcularPI/bin/Debug/netcoreapp3.1/CalcularPI.dll
+/Users/luismedon/Projects/CalcularPI/CalcularPI/bin/Debug/netcoreapp3.1/CalcularPI.pdb
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.csprojAssemblyReference.cache
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.AssemblyInfoInputs.cache
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.AssemblyInfo.cs
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.csproj.CoreCompileInputs.cache
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.dll
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.pdb
+/Users/luismedon/Projects/CalcularPI/CalcularPI/obj/Debug/netcoreapp3.1/CalcularPI.genruntimeconfig.cache
